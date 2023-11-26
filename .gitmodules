@@ -1,0 +1,6 @@
+[submodule "VisualDataBoard"]
+	path = VisualDataBoard
+	url = https://github.com/qewryy/VisualDataBoard.git
+[submodule "VDB_View"]
+	path = VDB_View
+	url = https://github.com/qewryy/VDB_View.git
